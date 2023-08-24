@@ -15,7 +15,7 @@ function NewNavBar() {
               Home
             </Nav.Link>
             <Nav.Link as={Link} to="/test">
-              Test
+              Main
             </Nav.Link>
             <Nav.Link as={Link} to="/productlist">
               Products
